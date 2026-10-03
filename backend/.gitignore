@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+innerbloom.db
+.pytest_cache/
